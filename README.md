@@ -1,1 +1,0 @@
-# QDo_Frontend
